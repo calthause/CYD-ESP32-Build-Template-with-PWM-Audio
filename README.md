@@ -2,6 +2,15 @@
 
 A minimal, reusable PlatformIO project for the **Cheap Yellow Display (CYD)** ESP32 board.
 
+## Web Flasher
+
+Flash the template firmware to your display straight from Chrome or Edge — no tools to install:
+
+**https://calthause.github.io/CYD-ESP32-Build-Template-with-PWM-Audio/**
+
+1. Plug the display in with a USB data cable
+2. Click **Connect**, select the serial port, then **Install**
+
 This template contains the CYD hardware scaffolding ready to copy into new projects:
 
 - ILI9341 240x320 display via SPI
